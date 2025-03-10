@@ -1,3 +1,8 @@
+<div align="center">
+  
+  ![Image](https://github.com/user-attachments/assets/e1802b5c-8d31-42d8-9bec-d4d9fce81c8d)
+  
+</div>
 <h1 align="center">Hi 👋, I'm Hema Alkolu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
