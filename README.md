@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/dcf1fac7-4903-427c-9663-91027346c44c)
 
 <h1 align="center">Hi 👋, I'm Hema Alkolu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, react, node.js, express.js, mongoDB**
 
