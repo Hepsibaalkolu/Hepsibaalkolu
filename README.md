@@ -1,7 +1,3 @@
-
-
-this is my resume <a href="https://github.com/user-attachments/assets/767ab223-dba9-44c1-980e-368d51993a26">click</a>
-
 ![Image](https://github.com/user-attachments/assets/dcf1fac7-4903-427c-9663-91027346c44c)
 
 <h1 align="center">Hi 👋, I'm Hema Alkolu</h1>
@@ -10,7 +6,7 @@ this is my resume <a href="https://github.com/user-attachments/assets/767ab223-d
 - 💬 Ask me about **HTML, CSS, JavaScript, react, node.js, express.js, mongoDB**
 
 - 📫 How to reach me **hemaalkolu808@gmail.com**
-
+- 💼 Take a peek at my resume! <a href="https://github.com/user-attachments/assets/767ab223-dba9-44c1-980e-368d51993a26" target="_blank" rel="noreferrer">**click**</a>
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
