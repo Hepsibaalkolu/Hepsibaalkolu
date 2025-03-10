@@ -1,4 +1,6 @@
-[My resume](https://github.com/user-attachments/files/19162772/HEMA_RESUME_pdf-.pdf)
+
+
+this is my resume <a href="https://github.com/user-attachments/assets/767ab223-dba9-44c1-980e-368d51993a26">click</a>
 
 ![Image](https://github.com/user-attachments/assets/dcf1fac7-4903-427c-9663-91027346c44c)
 
