@@ -6,7 +6,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, react, node.js, express.js, mongoDB**
 
 - 📫 How to reach me **hemaalkolu808@gmail.com**
-- 💼 Take a peek at my resume! <a href="https://github.com/user-attachments/assets/767ab223-dba9-44c1-980e-368d51993a26" target="_blank" rel="noreferrer">**click**</a>
+- 💼 Take a peek at my resume! <a href="https://github.com/user-attachments/assets/767ab223-dba9-44c1-980e-368d51993a26/" target="_blank" rel="noreferrer">**click**</a>
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
