@@ -8,7 +8,7 @@
 - 📫 How to reach me 📧 <a href="mailto:hemaalkolu808@gmail.com">hemaalkolu808@gmail.com</a>
 
 
-- 💼 Take a peek at my resume! <a href="https://github.com/Hepsibaalkolu/resume/blob/7b5174e544962eed8035dd5a019966b4cbd741ed/Doc1.pdf" rel="noreferrer">**click**</a>
+- 💼 Take a peek at my resume! <a href="https://pdflink.to/2fd8c740/" rel="noreferrer">**click**</a>
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
